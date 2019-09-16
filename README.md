@@ -1,4 +1,4 @@
-# Exemplo de uso de GraphQL com .NET Core
+# Exemplo de criação de um GraphQL Server com .NET Core
 
   Neste repositório você terá acesso a uma aplicação exemplo feita com .NET Core 2.2 e NHibernate.
 
